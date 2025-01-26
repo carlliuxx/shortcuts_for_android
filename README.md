@@ -24,7 +24,7 @@
 ## 🎥 教程视频  
 
 想快速上手？跟着视频一步步学习，创建属于你的快捷指令！  
-[教程视频（待更新）](#)  
+[教程视频](https://www.bilibili.com/video/BV1KeFcezEE9/?vd_source=531e73dc1ab2aff6ab3074357703fe9e)
 
 ---
 
